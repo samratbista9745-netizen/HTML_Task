@@ -1,0 +1,38 @@
+h1{
+    color:brown;
+    background-color:rgb(250, 223, 227);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+    border-radius:10px;
+    margin:30px; 
+}
+
+h2{
+    font-size:38px;
+    margin-left:38px;
+    font-family: Tahoma, Geneva;
+}
+
+table{
+    height:550px;
+    width:1100px;
+    margin:38px;
+    text-align:center;
+    font-size:28px;      
+}
+
+.even{
+    background-color: rgb(219, 229, 243);
+}
+
+.total{
+    background-color:rgb(208, 241, 208);
+}
+
+[id="45"]{
+    background-color:rgb(194, 233, 248);
+}
+
+.odd{
+    background-color:azure;
+}
